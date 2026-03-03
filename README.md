@@ -90,7 +90,4 @@ Organisation de projet collaboratif
 
 Structuration de code maintenable
 
-▶️ Exécution
-git clone https://github.com/ndeyekhadydiop2003-hub/project_feu_tricolore_final.git
-cd project_feu_tricolore_final
-python main.py
+
